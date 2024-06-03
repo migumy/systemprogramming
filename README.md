@@ -1,4 +1,4 @@
-# Linux_Chat_Program_SystemProgramming2024
+# Linux_Chat_Program_SystemProgramming2024_Team9
 
 리눅스 환경에서 C로 구현된 간단한 채팅 프로그램으로, 
 서버와 클라이언트가 네트워크를 통해 메시지를 송수신할 수 있습니다. 클라이언트는 채팅 서버에 연결하여 메시지를 송수신하고,
@@ -64,8 +64,8 @@
 
 ### 예시
 
+![room2](https://github.com/migumy/systemprogramming/assets/171572256/70088e0c-821c-4ab8-8ab1-9820feb40e95)
 ![room1](https://github.com/migumy/systemprogramming/assets/171572256/bc267ca3-aa3f-4f1e-be0d-3a29adc83fd9)
-
 
 
 ## Interactive 메뉴 옵션
