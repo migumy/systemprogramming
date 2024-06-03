@@ -67,6 +67,7 @@
 
 ### ctrl + c 를 입력하면 다음의 메뉴가 나타납니다.
 
+![interactivemenus](https://github.com/migumy/systemprogramming/assets/171572256/2c5e31d1-8a79-4a20-b782-57b4f562014b)
 
 1.채팅방 목록 : 서버에서 사용 가능한 채팅방 목록을 요청하고 표시합니다.
 
