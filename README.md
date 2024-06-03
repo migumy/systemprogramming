@@ -62,6 +62,11 @@
 
     다른 작업을 수행하려면 'Ctrl + c' 키를 입력헤 interactive 메뉴를 엽니다.
 
+### 예시
+
+![room1](https://github.com/migumy/systemprogramming/assets/171572256/bc267ca3-aa3f-4f1e-be0d-3a29adc83fd9)
+
+
 
 ## Interactive 메뉴 옵션
 
